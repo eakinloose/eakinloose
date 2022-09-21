@@ -1,7 +1,7 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://akinloose.life)
 <h1 align="center">Hi 👋, I'm Akinloose Emmanuel Temidayo</h1>
 <h3 align="center">An innovative web design and development professional with three years of extensive experience in analyzing, designing, and developing web-based applications and solutions using a variety of technologies and programming languages seeks to leverage development experience and hands-on technical expertise in a challenging role as a Frontend Heavy Full Stack Developer.</h3>
-<img align="right" alt="Coding" width="400" src=“https://cdn3.vectorstock.com/i/1000x1000/57/87/web-developer-design-vector-5885787.jpg”>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eakinloose&label=Profile%20views&color=0e75b6&style=flat" alt="eakinloose" /> </p>
 
