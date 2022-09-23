@@ -1,7 +1,7 @@
 [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://akinloose.life)
-<h1 align="center">Hi 👋, I'm Akinloose Emmanuel Temidayo</h1>
-<h3 align="center">An innovative web design and development professional with three years of extensive experience in analyzing, designing, and developing web-based applications and solutions using a variety of technologies and programming languages seeks to leverage development experience and hands-on technical expertise in a challenging role as a Frontend Heavy Full Stack Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<h1 align="left">Hi 👋, I'm Akinloose Emmanuel Temidayo</h1>
+<h4 align="left">An innovative web design and development professional with three years of extensive experience in analyzing, designing, and developing web-based applications and solutions using a variety of technologies and programming languages seeks to leverage development experience and hands-on technical expertise in a challenging role as a Frontend Heavy Full Stack Developer.</h4>
+<img align="left" alt="Coding" width="400" src="https://us.123rf.com/450wm/shock77/shock771108/shock77110800002/10372171-funny-cartoon-business-man.jpg?ver=6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eakinloose&label=Profile%20views&color=0e75b6&style=flat" alt="eakinloose" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *emmanuelakinloose20@gmail.com*
 
-- 📄 resume? [my resume can be downloaded on my website](my resume can be downloaded on my website)
+- 📄 resume? [my resume can be downloaded on my website]
 
 - ⚡ Fun fact *I think i am creative and funny*
 
